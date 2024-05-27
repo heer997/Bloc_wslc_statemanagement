@@ -1,4 +1,3 @@
-
 import 'package:bloc_wslc_statemanagement/Api_handling_using_Bloc/Model/quote_model.dart';
 
 class QuoteState {}
