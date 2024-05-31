@@ -1,3 +1,3 @@
 class Urls {
-  static final String getQuotesUrl = "https://dummyjson.com/quotes";
+  static const String getQuotesUrl = "https://dummyjson.com/quotes";
 }
